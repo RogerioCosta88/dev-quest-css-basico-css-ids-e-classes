@@ -1,0 +1,16 @@
+#descricao-video-game, #descricao-pc {
+    background-color: orange;
+}
+
+.descricao-produto {
+    background-color: orange;
+    color:aliceblue
+}
+
+.descricao-produto.promocao {
+    border: 2px solid green;
+}
+
+p {
+    font-size: 25px;
+}
